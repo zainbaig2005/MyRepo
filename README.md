@@ -11,3 +11,11 @@ Welcome to my first repository! Here, you'll find examples of my work, projects,
 ```python
 def hello_world():
     print("Hello, world!")
+
+### Task List
+
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [ ] Make a task list
+- [ ] Merge your pull request

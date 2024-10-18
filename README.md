@@ -10,8 +10,8 @@ Welcome to my first repository! Here, you'll find examples of my work, projects,
 - [x] Add headers
 - [x] Add an image
 - [x] Add a code example
-- [ ] Make a task list
-- [ ] Merge your pull request
+- [x] Make a task list
+- [x] Merge your pull request
 
 ### Code Example
 

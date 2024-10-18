@@ -5,13 +5,6 @@ Welcome to my first repository! Here, you'll find examples of my work, projects,
 
 ![myimage png](https://github.com/user-attachments/assets/03b1ebdf-2438-44a5-b18f-830709414489)
 
-
-### Code Example
-
-```python
-def hello_world():
-    print("Hello, world!")
-
 ### Task List
 
 - [x] Add headers
@@ -19,3 +12,10 @@ def hello_world():
 - [x] Add a code example
 - [ ] Make a task list
 - [ ] Merge your pull request
+
+### Code Example
+
+```python
+def hello_world():
+    print("Hello, world!")
+

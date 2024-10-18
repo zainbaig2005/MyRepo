@@ -4,3 +4,10 @@ Welcome to my first repository! Here, you'll find examples of my work, projects,
 
 
 ![myimage png](https://github.com/user-attachments/assets/03b1ebdf-2438-44a5-b18f-830709414489)
+
+
+### Code Example
+
+```python
+def hello_world():
+    print("Hello, world!")
